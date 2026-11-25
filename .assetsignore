@@ -1,0 +1,5 @@
+# Source files that should not be served as part of the website
+.git
+src
+tailwind.config.js
+README.md
